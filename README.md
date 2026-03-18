@@ -33,6 +33,8 @@ Abaixo você pode observar a evolução visual e os detalhes da interface constr
 
 Confira o fluxo completo do MktSimple rodando e navegável na prática, incluindo a manipulação do painel do carrinho:
 
+
+
 <video src="video/Gravando%202026-03-18%20163329.mp4" controls="controls" style="max-width: 100%;">
   Seu navegador não suporta vídeos na leitura nativa desta plataforma. <a href="video/Gravando%202026-03-18%20163329.mp4" target="_blank">Clique aqui para baixar ou assistir o vídeo em MP4.</a>
 </video>
